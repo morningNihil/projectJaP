@@ -1,4 +1,0 @@
-# projectJaP
-
-
-Proyecto JaP ecommerce.
